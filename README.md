@@ -1,5 +1,5 @@
 # pubmed_crawler_and_topic_modelling
-A tool consist of a pubmed's abstracts crawler and a topic modelling pipeline
+A tool consist of a pubmed's abstracts crawler and a topic modelling pipeline. Could be helpful to people who want to have some ideas about what's going on in a specific medical field. 
 # Packages used:
 Python 3.8
 
